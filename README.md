@@ -2,7 +2,7 @@
 Webpack2 &amp; angular 2 treeshaking example followed by following tutorial 
 https://medium.freecodecamp.com/tree-shaking-es6-modules-in-webpack-2-1add6672f31b
 
-To run and test this application run the following command
+To run and test this application run the following commands
 ```
 1. npm install
 2. webpack
