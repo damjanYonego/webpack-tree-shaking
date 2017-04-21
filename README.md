@@ -6,7 +6,7 @@ To run and test this application run the following command
 1. npm install
 2. webpack
 
-Run webpack again and pop open your bundle.js file. You won't notice any difference. 
+Run webpack and pop open your bundle.js file. You won't notice any difference. sayBye function is still there! 
 Before you go crazy, know this! It's ok. We've been running webpack in development mode 
 this whole time. Webpack knows that you have unused exports in your code. Even though 
 it's included in the final bundle, sayBye will never make it to production.
